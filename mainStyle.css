@@ -33,7 +33,7 @@ main{
     width: 100%;
     height: 100%;
     background: #fff;
-    padding: 2.5rem;
+    padding: 2rem;
     grid-column: 1/-1;
     
 }
@@ -56,7 +56,7 @@ main{
     height: 100%;
     background-color: var(--primary-cyan);
     color: var(--neutral-light-gray);
-    padding: 2.5rem;
+    padding: 2rem;
 }
 .price-details h4{
     font-size: 1.2em;
@@ -99,7 +99,7 @@ main{
     height: 100%;
     background: linear-gradient(to right bottom, hsl(179, 62%, 45%) 10%,hsl(179, 62%, 43%) 90%);
     color: var(--neutral-light-gray);
-    padding: 2.5rem;
+    padding: 2rem;
 }
 .price-description-card h4{
     font-size: 1.2em;
